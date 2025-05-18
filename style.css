@@ -1,7 +1,7 @@
 body { 
   background: rgb(0,0,0);
   background: radial-gradient(circle, rgba(0,0,0,0.028124999999999956) 0%, rgba(253,187,45,1) 100%);
-  background-image: url('Cloudy.SVG');
+  background-image: url('Cloudy.svg');
   background-size: cover;
   background-repeat: no-repeat;
   font-family: Arial, sans-serif;
